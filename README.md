@@ -1,3 +1,7 @@
+# ConsoleBox
+
+![Screenshots](https://raw.githubusercontent.com/LordRampantHump/consolebox/master/img/consolebox.png)
+
 ## Installation
 
 ```bash
