@@ -1,0 +1,24 @@
+{
+  "name": "consolebox",
+  "version": "1.0.4",
+  "description": "simple console box",
+  "keywords": [
+    "color",
+    "console",
+    "box",
+    "console log"
+  ],
+  "main": "consoleBox.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Lordrampenthump",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lordrampanthump/consolebox/issues",
+    "email": "mormac82@gmail.com"
+  }
+}
